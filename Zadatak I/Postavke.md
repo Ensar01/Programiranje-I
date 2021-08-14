@@ -31,3 +31,10 @@ Geometrijska sredina n brojeva se računa po formuli:
 
 ![](https://user-images.githubusercontent.com/72500944/129444484-b58a7986-605b-4b65-b7ea-5856fbfe6977.png)
 
+## [**03(NPP)**](03.cpp)
+
+Poštujući sve faze programiranja napisati program koji omogućava unos prirodnog broja n preko tastature te izračunava sumu:
+
+![](https://user-images.githubusercontent.com/72500944/129444810-4ca8e00a-6922-44e3-a0da-9da7a83f1cc3.png)
+
+
