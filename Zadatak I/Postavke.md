@@ -28,5 +28,6 @@ Broj sastavljen od zadanih cifara je 28.
 Napisati program koji korisniku omogućava unos cijelog broja N, te izračunava geometrijsku sredinu svih neparnih brojeva u intervalu [1, N] koji nisu djeljivi sa brojem 5. Rezlutat treba biti zaokruzen na dvije decimale. 
 
 Geometrijska sredina n brojeva se računa po formuli:
+
 ![](https://user-images.githubusercontent.com/72500944/129444484-b58a7986-605b-4b65-b7ea-5856fbfe6977.png)
 
