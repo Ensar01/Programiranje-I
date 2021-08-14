@@ -23,7 +23,7 @@ Upisi cifru: -1
 
 Broj sastavljen od zadanih cifara je 28.
 ```
-## [**03(NPP)**](03.cpp)
+## [**03 (NPP)**](03.cpp)
 
 Napisati program koji korisniku omogućava unos cijelog broja N, te izračunava geometrijsku sredinu svih neparnih brojeva u intervalu [1, N] koji nisu djeljivi sa brojem 5. Rezlutat treba biti zaokruzen na dvije decimale. 
 
@@ -33,7 +33,7 @@ Geometrijska sredina n brojeva se računa po formuli:
 
 
 
-## [**04(NPP)**](04.cpp)
+## [**04 (NPP)**](04.cpp)
 
 Poštujući sve faze programiranja napisati program koji omogućava unos prirodnog broja n preko tastature te izračunava sumu:
 
