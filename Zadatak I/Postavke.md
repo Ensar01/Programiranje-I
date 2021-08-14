@@ -29,9 +29,10 @@ Napisati program koji korisniku omogućava unos cijelog broja N, te izračunava 
 
 Geometrijska sredina n brojeva se računa po formuli:
 
-![](https://user-images.githubusercontent.com/72500944/129444484-b58a7986-605b-4b65-b7ea-5856fbfe6977.png)
+![](https://user-images.githubusercontent.com/72500944/129444901-3cc457bb-29ac-4c5f-a3da-648341f777c9.png)
 
-## [**03(NPP)**](03.cpp)
+
+## [**04(NPP)**](04.cpp)
 
 Poštujući sve faze programiranja napisati program koji omogućava unos prirodnog broja n preko tastature te izračunava sumu:
 
