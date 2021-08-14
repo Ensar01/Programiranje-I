@@ -19,7 +19,7 @@ int main()
 }
 float sum(int x)
 {
-	float s = 0;
+	float s = 0.0f;
 
 	for (int i = 1; i <= x; i++)
 	{
