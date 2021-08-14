@@ -1,1 +1,1 @@
-#[01 (NPP)](Zadatak I/01.cpp)
+# 01 (NPP)(Zadatak I/01.cpp)
