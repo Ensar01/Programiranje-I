@@ -79,4 +79,20 @@ Poštujući sve faze procesa programiranja, napišite program, koji za uneseni p
 
 ![](https://user-images.githubusercontent.com/72500944/129476334-cf973814-1f30-4d21-9cec-65dfa84b1f4c.png)
 
+## [**10 (NPP)**](10.cpp)
+
+Napisati program koji korisniku omogućava unos cijelog broja n, te izračunava:
+
+![](https://user-images.githubusercontent.com/72500944/129476452-178417fd-aca7-439d-98d3-806723758f62.png)
+
+## [**11 (NPP)**](11.cpp)
+
+Napisati program koji omogućava unos realnog broja x, cijelog broja m (m > 0) i odabir funkcije za proračun datog izraza. Korisnik bira funkciju unosom jednog od sljedećih karaktera: 's' (sabiranje), 'o' (oduzimanje), 'm' (množenje), 'd' (dijeljenje). U slučaju da korisnik unese karakter koji ne odgovara niti jednoj od predefinisanih vrijednosti ispisati odgovarajuću poruku i ponoviti odabir.
+
+Za odabir funkcija izrazi su:
+
+![image](https://user-images.githubusercontent.com/72500944/129476680-3e31f78d-da9a-454c-b2df-29ad704ec4e3.png)
+
+**Broj faktora u izrazu odgovara unesenom broju m. U rješenju obavezno iskoristiti switch iskaz.**
+
 
