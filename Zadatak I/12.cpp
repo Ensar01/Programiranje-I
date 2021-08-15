@@ -20,8 +20,6 @@ int main()
 	}
 
 	ispis(X, Y);
-
-
 }
 
 int unos()
