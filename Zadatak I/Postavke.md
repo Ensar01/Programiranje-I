@@ -112,7 +112,8 @@ Napisati program kojim će se izračunati 20 uzastopnih vrijednosti brzine i pre
 
 Formula za brzinu slobodnog pada je:
 
-![](https://user-images.githubusercontent.com/72500944/129484863-416ca354-ea5d-4bb9-8f77-5b2802406fc7.png) ![](https://user-images.githubusercontent.com/72500944/129484842-45126dc1-39fd-4825-a4c0-81c7c332b876.png)
+![](https://user-images.githubusercontent.com/72500944/129484863-416ca354-ea5d-4bb9-8f77-5b2802406fc7.png) ![](https://user-images.githubusercontent.com/72500944/129484959-d1539b7e-5969-4c41-bdd4-c73ed4060f51.png)
+
 
 Formula za pređeni put pri slobodnom padu je:
 
