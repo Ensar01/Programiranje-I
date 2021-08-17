@@ -106,3 +106,39 @@ Brojeve X i Y unosi korisnik i oni moraju biti u opsegu od 10 do 6000.
 
 **Obavezno koristiti bar jednu funkciju.**
 
+## [**13 (SPP)**](13.cpp)
+
+Napisati program kojim će se izračunati 20 uzastopnih vrijednosti brzine i pređenog puta objekta u slobodnom padu u razmaku od po 3 sec. Prilikom računanja potrebno je i ispisati na ekran uzastopno brzinu i pređeni put zajedno za svaki period od 3sec. Obratiti pažnju da se koriste ispravni tipovi podataka. 
+
+Formula za brzinu slobodnog pada je:
+
+![](https://user-images.githubusercontent.com/72500944/129484863-416ca354-ea5d-4bb9-8f77-5b2802406fc7.png) ![](https://user-images.githubusercontent.com/72500944/129485012-ae9271d3-20a5-491a-9c4a-a7fcd0891728.png)
+
+
+
+Formula za pređeni put pri slobodnom padu je:
+
+![](https://user-images.githubusercontent.com/72500944/129484891-cd74de0b-908d-45cf-9f00-187e0a3f7edf.png)
+
+
+Primjer izlaza:
+
+```
+Situacija u 3-oj sekundi je:
+Brzina: 29.43
+Predjeni put: 44.145
+Situacija u 6-oj sekundi je:
+Brzina: 58.86
+Predjeni put: 176.58
+Situacija u 9-oj sekundi je:
+Brzina: 88.29
+Predjeni put: 397.305
+Situacija u 12-oj sekundi je:
+Brzina: 117.72
+Predjeni put: 706.32
+Situacija u 15-oj sekundi je:
+Brzina: 147.15
+Predjeni put: 1103.63
+```
+
+
