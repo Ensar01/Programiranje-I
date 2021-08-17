@@ -162,6 +162,6 @@ Napišite program u kojem ćete omogućiti unos dva prirodna broja manja od 500 
 Napisati program koji izračunava aritmetičku sredinu svih savršenih brojeva iz zadatog intervala. Za neki broj se kaže da je savršen ukoliko je jednak sumi svih svojih djelilaca (ne uključujući njega samog). Na primjer, 28 je savršen broj: njegovi djelioci su 1, 2, 4, 7 i 14, a 1 + 2 + 4 + 7 + 14 = 28. Jedini savršeni brojevi u opsegu od 1 do 100 su brojevi 6 i 28. 
 
 U rješenju koristiti funkciju sljedećeg prototipa:
-```
+```cpp
 bool isSavrsen(int);
 ```
