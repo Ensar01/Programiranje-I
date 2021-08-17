@@ -165,3 +165,16 @@ U rješenju koristiti funkciju sljedećeg prototipa:
 ```cpp
 bool isSavrsen(int);
 ```
+
+## [**17 (SPP)**](17.cpp)
+
+Poštujući sve faze procesa programiranja napraviti program koji pronalazi i ispisuje sve složene brojeve brojeve iz intervala 
+m - n(10 < m < 100, 500 < n < 2000, m < n; ukoliko unesene vrijednosti nisu ispravne, učitavanje treba ponavljati), 
+te pronalazi i ispisuje njihovu aritmetičku sredinu.Napraviti sljedeće funkcije :
+
+bool slozeni – koja će ispitivati da li je broj složeni i
+ispis – koja koja će ispisivati sve složene brojeve i vratiti main funkciji njihovu aritmetičku sredinu.
+U glavnom programu je potrebno ispisati aritmetičku sredinu.
+
+**Složeni broj je svaki broj koji nije prosti, odnosno koji ima bar jednog djelioca osim broja 1 i samog sebe.**
+
