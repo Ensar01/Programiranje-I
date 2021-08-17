@@ -106,7 +106,7 @@ Brojeve X i Y unosi korisnik i oni moraju biti u opsegu od 10 do 6000.
 
 **Obavezno koristiti bar jednu funkciju.**
 
-## [**13 (SPP)**](13.cpp)
+## [**13 (NPP)**](13.cpp)
 
 Poštujući sve faze programiranja, napisati program koji korisniku omogućava unos realnog broja x i odabir funkcije za proračun datog izraza. Korisnik bira funkciju unosom jednog od sljedećih karaktera: 's'(sin), 'c'(cos). U slučaju da korisnik unese karakter koji ne odgovara niti jednog od predefinisanih vrijednosti ispisati odgovarajuću poruku i ponoviti odabir.
 
@@ -152,4 +152,16 @@ Brzina: 147.15
 Predjeni put: 1103.63
 ```
 
+## [**15 (SPP)**](15.cpp)
 
+Napišite program u kojem ćete omogućiti unos dva prirodna broja manja od 500 koji predstavljaju granice intervala, te pronaći i ispisati kojom cifrom/znamenkom završava umnožak svih prostih brojeva u zadanom intervalu uključujući granične vrijednosti.
+
+
+## [**16 (SPP)**](16.cpp)
+
+Napisati program koji izračunava aritmetičku sredinu svih savršenih brojeva iz zadatog intervala. Za neki broj se kaže da je savršen ukoliko je jednak sumi svih svojih djelilaca (ne uključujući njega samog). Na primjer, 28 je savršen broj: njegovi djelioci su 1, 2, 4, 7 i 14, a 1 + 2 + 4 + 7 + 14 = 28. Jedini savršeni brojevi u opsegu od 1 do 100 su brojevi 6 i 28. 
+
+U rješenju koristiti funkciju sljedećeg prototipa:
+```
+bool isSavrsen(int);
+```
