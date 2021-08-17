@@ -106,6 +106,15 @@ Brojeve X i Y unosi korisnik i oni moraju biti u opsegu od 10 do 6000.
 
 **Obavezno koristiti bar jednu funkciju.**
 
+## [**13 (SPP)**](13.cpp)
+
+Poštujući sve faze programiranja, napisati program koji korisniku omogućava unos realnog broja x i odabir funkcije za proračun datog izraza. Korisnik bira funkciju unosom jednog od sljedećih karaktera: 's'(sin), 'c'(cos). U slučaju da korisnik unese karakter koji ne odgovara niti jednog od predefinisanih vrijednosti ispisati odgovarajuću poruku i ponoviti odabir.
+
+![](https://user-images.githubusercontent.com/72500944/129745295-710e90dd-fbea-4e58-8fee-4a121bb85fb9.png)
+
+
+Za odabranu funkciju sin izraz je:
+
 ## [**14 (SPP)**](14.cpp)
 
 Napisati program kojim će se izračunati 20 uzastopnih vrijednosti brzine i pređenog puta objekta u slobodnom padu u razmaku od po 3 sec. Prilikom računanja potrebno je i ispisati na ekran uzastopno brzinu i pređeni put zajedno za svaki period od 3sec. Obratiti pažnju da se koriste ispravni tipovi podataka. 
