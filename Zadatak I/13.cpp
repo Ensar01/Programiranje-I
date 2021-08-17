@@ -1,18 +1,61 @@
 #include<iostream>
 using namespace std;
 
+double proracun(int, char);
+
 int main()
 {
-	const float g = 9.81;
+	float x;
+	cout << "Unesi neki realan broj:" << endl;
+	cin >> x;
 
-	for (int i = 1, t = 3; i <= 20; i++, t += 3)
+	char znak;
+	do
 	{
-		cout << "Situacija u " << t << "-oj sekundi je:" << endl;
-		cout << "Brzina: " << g * t << endl;
-		cout << "Predjeni put: " << g / 2 * pow(t, 2) << endl;
 
-	}
+		cout << "Unesite karakter s-(sin) ili c-(cos) u zavisnosti koju funkciju zelite:" << endl;
+		cin >> znak;
+
+		if (znak != 's' && znak != 'c')
+		{
+			cout << "Unos nije validan" << endl;
+		}
+
+
+	} while (znak != 's' && znak != 'c');
+
+	cout << "Rezultat odabrane funkcije '" << znak << "' iznosi: " << proracun(x, znak);
+
 
 	cin.get();
 	return 0;
 }
+
+double proracun(int x, char znak)
+{
+	float s = 1.0f;
+
+	if (znak == 's')
+	{
+		for (int i = 1; i <= x; i++)
+		{
+			s += i / (sin(x / i) + x);
+		}
+
+	}
+	else if (znak == 'c')
+	{
+		for (int i = 1; i <= x; i++)
+		{
+			s += i / (cos(x / i) + x);
+		}
+
+	}
+	else
+	{
+		cout << "Unos nije validan" << endl;
+	}
+
+	return s;
+}
+
