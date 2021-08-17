@@ -106,7 +106,7 @@ Brojeve X i Y unosi korisnik i oni moraju biti u opsegu od 10 do 6000.
 
 **Obavezno koristiti bar jednu funkciju.**
 
-## [**13 (SPP)**](13.cpp)
+## [**14 (SPP)**](14.cpp)
 
 Napisati program kojim će se izračunati 20 uzastopnih vrijednosti brzine i pređenog puta objekta u slobodnom padu u razmaku od po 3 sec. Prilikom računanja potrebno je i ispisati na ekran uzastopno brzinu i pređeni put zajedno za svaki period od 3sec. Obratiti pažnju da se koriste ispravni tipovi podataka. 
 
