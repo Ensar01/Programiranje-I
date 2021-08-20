@@ -33,7 +33,6 @@ int main()
 		else
 		{
 			cout << "Srednja cifra proizvoda brojeva " << m << " i " << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: " << trenutnaSrednja << endl << endl;
-
 		}
 
 
