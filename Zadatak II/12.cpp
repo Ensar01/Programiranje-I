@@ -28,11 +28,11 @@ int main()
 
 		if (trenutnaSrednja < proslaSrednja)
 		{
-	             cout << "Srednja cifra proizvoda brojeva " << m << "i" << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: ne ispisuje se" << endl << endl;
+	           cout << "Srednja cifra proizvoda brojeva " << m << "i" << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: ne ispisuje se" << endl << endl;
 		}
 		else
 		{
-		     cout << "Srednja cifra proizvoda brojeva " << m << " i " << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: " << trenutnaSrednja << endl << endl;
+		   cout << "Srednja cifra proizvoda brojeva " << m << " i " << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: " << trenutnaSrednja << endl << endl;
 		}
 
 
