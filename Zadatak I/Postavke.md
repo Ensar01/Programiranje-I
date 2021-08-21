@@ -27,7 +27,7 @@ Broj sastavljen od zadanih cifara je 28.
 
 Napisati program koji korisniku omogućava unos cijelog broja N, te izračunava geometrijsku sredinu svih neparnih brojeva u intervalu [1, N] koji nisu djeljivi sa brojem 5. Rezlutat treba biti zaokruzen na dvije decimale. 
 
-Geometrijska sredina n brojeva se računa po formuli:
+***Geometrijska sredina n brojeva se računa po formuli:***
 
 ![](https://user-images.githubusercontent.com/72500944/129444910-9c744111-c52d-4eff-aad7-81ac4e19caf4.png)
 
@@ -55,7 +55,7 @@ Napišite program, poštujući sve faze procesa programiranja, koji će  ispisat
 
 **ABC = A! + B! + C!**
 
-**145 je jedini trocifreni broj koji je jednak sumi faktorijela svojih znamenki**
+***145 je jedini trocifreni broj koji je jednak sumi faktorijela svojih znamenki***
 
 
 ## [**Zadatak 07**](07.cpp)
@@ -89,7 +89,7 @@ Napisati program koji korisniku omogućava unos cijelog broja n, te izračunava:
 
 Napisati program koji omogućava unos realnog broja x, cijelog broja m (m > 0) i odabir funkcije za proračun datog izraza. Korisnik bira funkciju unosom jednog od sljedećih karaktera: 's' (sabiranje), 'o' (oduzimanje), 'm' (množenje), 'd' (dijeljenje). U slučaju da korisnik unese karakter koji ne odgovara niti jednoj od predefinisanih vrijednosti ispisati odgovarajuću poruku i ponoviti odabir.
 
-Za odabir funkcija izrazi su:
+***Za odabir funkcija izrazi su:***
 
 ![image](https://user-images.githubusercontent.com/72500944/129476680-3e31f78d-da9a-454c-b2df-29ad704ec4e3.png)
 
@@ -102,7 +102,7 @@ Postujuci sve faze procesa programiranja napisati program koji ce pronaci i ispi
 
 Brojeve X i Y unosi korisnik i oni moraju biti u opsegu od 10 do 6000.
 
-**Na primjer, broj 36 je djeljiv svim svojim ciframa (36/6=6 i 36/3=12)**.
+***Na primjer, broj 36 je djeljiv svim svojim ciframa (36/6=6 i 36/3=12)***
 
 **Obavezno koristiti bar jednu funkciju.**
 
@@ -110,7 +110,7 @@ Brojeve X i Y unosi korisnik i oni moraju biti u opsegu od 10 do 6000.
 
 Poštujući sve faze programiranja, napisati program koji korisniku omogućava unos realnog broja x i odabir funkcije za proračun datog izraza. Korisnik bira funkciju unosom jednog od sljedećih karaktera: 's'(sin), 'c'(cos). U slučaju da korisnik unese karakter koji ne odgovara niti jednog od predefinisanih vrijednosti ispisati odgovarajuću poruku i ponoviti odabir.
 
-Za odabranu funkciju sin izraz je:
+***Za odabranu funkciju sin izraz je:***
 
 ![](https://user-images.githubusercontent.com/72500944/129745295-710e90dd-fbea-4e58-8fee-4a121bb85fb9.png)
 
@@ -121,18 +121,18 @@ Za odabranu funkciju sin izraz je:
 
 Napisati program kojim će se izračunati 20 uzastopnih vrijednosti brzine i pređenog puta objekta u slobodnom padu u razmaku od po 3 sec. Prilikom računanja potrebno je i ispisati na ekran uzastopno brzinu i pređeni put zajedno za svaki period od 3sec. Obratiti pažnju da se koriste ispravni tipovi podataka. 
 
-Formula za brzinu slobodnog pada je:
+***Formula za brzinu slobodnog pada je:***
 
 ![](https://user-images.githubusercontent.com/72500944/129484863-416ca354-ea5d-4bb9-8f77-5b2802406fc7.png) ![](https://user-images.githubusercontent.com/72500944/129485012-ae9271d3-20a5-491a-9c4a-a7fcd0891728.png)
 
 
 
-Formula za pređeni put pri slobodnom padu je:
+***Formula za pređeni put pri slobodnom padu je:***
 
 ![](https://user-images.githubusercontent.com/72500944/129484891-cd74de0b-908d-45cf-9f00-187e0a3f7edf.png)
 
 
-Primjer izlaza:
+***Primjer izlaza:***
 
 ```
 Situacija u 3-oj sekundi je:
@@ -161,7 +161,7 @@ Napišite program u kojem ćete omogućiti unos dva prirodna broja manja od 500 
 
 Napisati program koji izračunava aritmetičku sredinu svih savršenih brojeva iz zadatog intervala. Za neki broj se kaže da je savršen ukoliko je jednak sumi svih svojih djelilaca (ne uključujući njega samog). Na primjer, 28 je savršen broj: njegovi djelioci su 1, 2, 4, 7 i 14, a 1 + 2 + 4 + 7 + 14 = 28. Jedini savršeni brojevi u opsegu od 1 do 100 su brojevi 6 i 28. 
 
-U rješenju koristiti funkciju sljedećeg prototipa:
+***U rješenju koristiti funkciju sljedećeg prototipa:***
 ```cpp
 bool isSavrsen(int);
 ```
@@ -172,11 +172,11 @@ Poštujući sve faze procesa programiranja napraviti program koji pronalazi i is
 m - n(10 < m < 100, 500 < n < 2000, m < n; ukoliko unesene vrijednosti nisu ispravne, učitavanje treba ponavljati), 
 te pronalazi i ispisuje njihovu aritmetičku sredinu.Napraviti sljedeće funkcije :
 
-bool slozeni – koja će ispitivati da li je broj složeni 
+***bool slozeni – koja će ispitivati da li je broj složeni ***
 
-ispis – koja koja će ispisivati sve složene brojeve i vratiti main funkciji njihovu aritmetičku sredinu.
+***ispis – koja koja će ispisivati sve složene brojeve i vratiti main funkciji njihovu aritmetičku sredinu.***
 
-U glavnom programu je potrebno ispisati aritmetičku sredinu.
+**U glavnom programu je potrebno ispisati aritmetičku sredinu.**
 
 **Složeni broj je svaki broj koji nije prosti, odnosno koji ima bar jednog djelioca osim broja 1 i samog sebe.**
 
