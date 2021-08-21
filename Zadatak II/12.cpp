@@ -21,6 +21,7 @@ int main()
 
 		if (n == 0)
 		{
+			cout<<"Forsirani prekid..."<<endl;
 			break;
 		}
 
