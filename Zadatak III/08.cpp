@@ -9,6 +9,8 @@ int prebroj(int);
 float srednja(int);
 void sort(int*);
 
+**!!! MOZE I BEZ ARITMETIKE POINTERA!!!**
+
 int main()
 {
 
