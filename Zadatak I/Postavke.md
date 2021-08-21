@@ -8,7 +8,7 @@
 
 **(Obavezno koristiti barem jednu korisnički definisanu funkciju)**
 
-Ispis neka bude oblika:
+***Ispis neka bude oblika:***
 
 ```c++
 Upisi cifru: 2
