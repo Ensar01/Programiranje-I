@@ -3,7 +3,7 @@
  Napisati program koji učitava prirodan broj n. Program treba ispisati najmanji prirodan broj m, veći ili jednak n, koji je potencija nekog prirodnog broja,
 tj. 
 
-![](https://user-images.githubusercontent.com/72500944/130336112-e592b97e-66b1-4815-8827-9ee005c9ea65.png) 
+![](https://user-images.githubusercontent.com/72500944/130336141-68c08816-4d50-47d2-a92d-9403a360811e.png)
 , gdje su k i l prirodni brojevi >= 2.
 
 Obavezno rijesiti jednom rekurzivnom funkcijom
