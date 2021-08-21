@@ -10,6 +10,6 @@
 [Postavke za 4. ispitne zadatke](https://github.com/Ensar01/Programiranje-I/blob/main/Zadatak%20IV/Postavke.md)
 
 
-<a href = "https://github.com/Your_GitHub_Username/Your_Repository_Name/graphs/contributors">
-<img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+<a href = "https://github.com/Ensar01/Programiranje-I/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo = Ensar01/Programiranje-I"/>
 </a>
