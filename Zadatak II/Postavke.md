@@ -20,7 +20,7 @@
  
 **Za neki broj se kaze da je savrsen ukoliko je jednak sumi svih svojih djelilaca (ne ukljucujUci njega samog).**
 
-*Na primjer, 28 je savrsen broj: njegovi djelioci su 1, 2, 4, 7 i 14, a 1 + 2 + 4 + 7 + 14 = 28. Jedini savrseni brojevi u opsegu od 1 do 100 su brojevi 6 i 28.*
+***Na primjer, 28 je savrsen broj: njegovi djelioci su 1, 2, 4, 7 i 14, a 1 + 2 + 4 + 7 + 14 = 28. Jedini savrseni brojevi u opsegu od 1 do 100 su brojevi 6 i 28.***
 
 ## [**Zadatak 04**](04.cpp)
 
