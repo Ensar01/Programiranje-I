@@ -127,4 +127,7 @@ Napisati program koji izračunava ukupan zbir faktorijela od svih prostih brojev
 
 **Broj faktora u izrazu odgovara unesenom broju m. U rješenju obavezno iskoristiti switch iskaz.**
 
+## [**Zadatak 17**](17.cpp)
+
+Napišite program u kojem ćete omogućiti unos dva prirodna broja manja od 500 koji predstavljaju granice intervala, te pronaći i ispisati kojom cifrom/znamenkom završava umnožak svih prostih brojeva u zadanom intervalu uključujući granične vrijednosti.
 
