@@ -10,4 +10,4 @@
 [Postavke za 4. ispitne zadatke](https://github.com/Ensar01/Programiranje-I/blob/main/Zadatak%20IV/Postavke.md)
 
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=Your_GitHub_Username&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=Ensar01&show_icons=true)
