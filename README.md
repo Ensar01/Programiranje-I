@@ -1,4 +1,4 @@
-# Programiranje-I  ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png =100x100)
+# Programiranje-I  ![C++](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png )
 
 ***Ispitni zadaci iz NPP - 2014x2015, NPP - 2018x2019***
 
