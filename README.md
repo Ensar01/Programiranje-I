@@ -1,4 +1,4 @@
-# Programiranje-I  ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+# Programiranje-I  ![C++]()
 
 ***Ispitni zadaci iz NPP - 2014x2015, NPP - 2018x2019***
 
