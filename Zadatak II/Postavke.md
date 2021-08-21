@@ -95,7 +95,7 @@ unesi m i n: 12, 31
 srednja cifra/sredina proizvoda brojeva 12 i 31 (12 * 31 = 372) je: 7
 unesi m i n: 149, 20
 srednja cifra/sredina proizvoda brojeva 149 i 20 (149 * 20 = 2980) je: 8.5
-unesi m i n: 150, 0
+unesi m i n: 15, 0
 forsirani prekid...
 ```
 
