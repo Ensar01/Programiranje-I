@@ -10,7 +10,7 @@
 
 Ispis neka bude oblika:
 
-```
+```c++
 Upisi cifru: 2
 
 Upisi cifru: 8
