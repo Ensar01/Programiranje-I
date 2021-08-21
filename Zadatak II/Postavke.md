@@ -1,5 +1,4 @@
- #DRUGI ZADACI
- ## [**Zadatak 01**](01.cpp)
+## [**Zadatak 01**](01.cpp)
  
  Napisati program koji simulira bacanje 3 kockice (jedna kockica ima 6 strana i na tim stranama su brojevi 1 - 6). Simuliranje bacanja svake kockice ostvariti funkcijom rand() % 6 + 1. Simulirati konstantno bacanje sve tri kockice dok se u dva uzastopna bacanja ne desi da se dobiju isti brojevi na sve tri kockice (npr. u šestom bacanju se dobiju brojevi 2, 2, 2, a u sedmom 4, 4, 4 na sve tri kockice).
 
@@ -17,5 +16,10 @@
 
  ## [**Zadatak 03**](03.cpp)
  
+ Napisati program koji ce omoguciti korisniku unos broj n (uz uslov 10<=n<=1000). Zatim simulirati unos n slucajnih vrijednosti. Simuliranje unosa ostvariti funkcijom rand()%1000+1. Izracunati statisticke podatke u kojem procentu se od n generisanih slucajnih vrijednosti pojavljuje savrsen broj. 
+ 
+**Za neki broj se kaze da je savrsen ukoliko je jednak sumi svih svojih djelilaca (ne ukljucujici njega samog).**
+
+*Na primjer, 28 je savrsen broj: njegovi djelioci su 1, 2, 4, 7 i 14, a 1 + 2 + 4 + 7 + 14 = 28. Jedini savrseni brojevi u opsegu od 1 do 100 su brojevi 6 i 28.*
  
  
