@@ -10,5 +10,9 @@
 
 [Postavke za 4. ispitne zadatke](https://github.com/Ensar01/Programiranje-I/blob/main/Zadatak%20IV/Postavke.md)
 
+[normal link](https://www.google.com/)
+
+<a href="https://www.google.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">custom link</a>
+
 
 
