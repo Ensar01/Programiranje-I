@@ -1,4 +1,4 @@
-# Programiranje-I  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /> </a> </p>
+# Programiranje-I  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
 ***Ispitni zadaci iz NPP - 2014x2015, NPP - 2018x2019***
 
