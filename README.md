@@ -10,4 +10,6 @@
 [Postavke za 4. ispitne zadatke](https://github.com/Ensar01/Programiranje-I/blob/main/Zadatak%20IV/Postavke.md)
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Ensar01&theme=blue-green)
+<a href = "https://github.com/Your_GitHub_Username/Your_Repository_Name/graphs/contributors">
+<img src = "https://contrib.rocks/image?repo = GitHub_username/repository_name"/>
+</a>
