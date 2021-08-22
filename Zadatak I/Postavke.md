@@ -186,3 +186,9 @@ te pronalazi i ispisuje njihovu aritmetičku sredinu.Napraviti sljedeće funkcij
 Napisati program koji rješava sljedeći problem. Date su firma A, B i C sa godišnjim prihodima: A - prihod 10M eura B - prihod 7M eura C - prihod 5M eura sa sljedećim stabilnim fiksnim godišnjim rastom prihoda za koji pretpostavljamo da se neće mijenjati A - 2.05% B - 2.80% C - 4.30% Potrebno je pronaći koja firma će prva prestići firmu A u godišnjem prihodu i za koliko godina će se to desit.
 
 **Također potrebno je ispisati koliko će sve tri firme imati godišnji prihod u toj godini.**
+
+## [**Zadatak 19**](19.cpp)
+
+ Napisati program koji učitava prirodan broj n. Program treba ispisati najmanji prirodan broj m, veći ili jednak n, koji je potencija nekog prirodnog broja,
+tj.   <img src="https://render.githubusercontent.com/render/math?math=m=k^l">,  gdje su k i l prirodni brojevi >= 2.
+
