@@ -95,7 +95,7 @@ unesi m i n: 12, 31
 srednja cifra/sredina proizvoda brojeva 12 i 31 (12 * 31 = 372) je: 7
 unesi m i n: 149, 20
 srednja cifra/sredina proizvoda brojeva 149 i 20 (149 * 20 = 2980) je: 8.5
-unesi m i n: 150, 0
+unesi m i n: 15, 0
 forsirani prekid...
 ```
 
@@ -127,4 +127,7 @@ Napisati program koji izračunava ukupan zbir faktorijela od svih prostih brojev
 
 **Broj faktora u izrazu odgovara unesenom broju m. U rješenju obavezno iskoristiti switch iskaz.**
 
+## [**Zadatak 17**](17.cpp)
+
+Napišite program u kojem ćete omogućiti unos dva prirodna broja manja od 500 koji predstavljaju granice intervala, te pronaći i ispisati kojom cifrom/znamenkom završava umnožak svih prostih brojeva u zadanom intervalu uključujući granične vrijednosti.
 
