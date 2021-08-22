@@ -187,8 +187,4 @@ Napisati program koji rješava sljedeći problem. Date su firma A, B i C sa godi
 
 **Također potrebno je ispisati koliko će sve tri firme imati godišnji prihod u toj godini.**
 
-## [**Zadatak 19**](19.cpp)
-
- Napisati program koji učitava prirodan broj n. Program treba ispisati najmanji prirodan broj m, veći ili jednak n, koji je potencija nekog prirodnog broja,
-tj.   <img src="https://render.githubusercontent.com/render/math?math=m=k^l">,  gdje su k i l prirodni brojevi >= 2.
 
