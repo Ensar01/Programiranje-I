@@ -213,6 +213,7 @@ void najboljiKlub_odabranePozicije(fudbaler** niz, int red, int kolona)
 			if (*(*(niz + i) + j)->pozicija == izbor)
 			{
 				*(prosjeciOdabranihPozicija + i) += *(*(niz + i) + j)->broj_golova;
+				brojac++;
 			}
 		}
 
