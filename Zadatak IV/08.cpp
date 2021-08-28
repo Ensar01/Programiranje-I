@@ -14,7 +14,7 @@ struct vremenska_prognoza
 		vlaznost_vazduha = new float;
 	}
 
-	~vremenska_prognoza()
+	~vremenska_prognoza() //DESTRUKTOR - koristimo ga za brisanje i vracanje citave dinamicki alocirane memorije
 	{
 		delete[]padavine;
 		padavine = nullptr;
