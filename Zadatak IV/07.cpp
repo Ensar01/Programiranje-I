@@ -52,8 +52,10 @@ int main()
 
 	unos(niz, red, kolona);
 	ispis(niz, red, kolona);
+	
 	cout << "Najbolji klub se nalazi u koloni pod indeksom: " << najboljiKlub(niz, red, kolona) << endl;
 	int najbolji = najboljiKlub(niz, red, kolona);
+	
 	cout << "Ispis najboljeg kluba:" << endl;
 
 	for (int i = 0; i < red; i++)
