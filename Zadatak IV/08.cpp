@@ -7,7 +7,7 @@ struct vremenska_prognoza
 	float* temperatura;
 	float* vlaznost_vazduha;
 
-	vremenska_prognoza()
+	vremenska_prognoza() //KONSTRUKTOR - koristimo ga za kreiranje memorijskih lokacija svih dinamicki alociranih varijabli
 	{
 		padavine = new char[10];
 		temperatura = new float;
