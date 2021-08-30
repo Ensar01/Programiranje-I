@@ -7,11 +7,11 @@ int konverzijaBinarni(int);
 
 int main()
 {
-    int x;
+    int N;
     cout << "Unesi neki broj koji zelite pretvoriti u binarni:" << endl;
-    cin >> x;
+    cin >> N;
 
-    cout << x << " u binarnom sistemu iznosi: " << konverzijaBinarni(x);
+    cout << N << " u binarnom sistemu iznosi: " << konverzijaBinarni(N);
 
     cin.get();
     return 0;
