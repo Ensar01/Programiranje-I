@@ -21,6 +21,7 @@ int main()
 
 		if (n == 0)
 		{
+			cout<<"Forsirani prekid..."<<endl;
 			break;
 		}
 
@@ -28,21 +29,14 @@ int main()
 
 		if (trenutnaSrednja < proslaSrednja)
 		{
-			cout << "Srednja cifra proizvoda brojeva " << m << "i" << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: ne ispisuje se" << endl << endl;
+	           cout << "Srednja cifra proizvoda brojeva " << m << "i" << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: ne ispisuje se" << endl << endl;
 		}
 		else
 		{
-			cout << "Srednja cifra proizvoda brojeva " << m << " i " << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: " << trenutnaSrednja << endl << endl;
-
+		   cout << "Srednja cifra proizvoda brojeva " << m << " i " << n << " (" << m << "*" << n << "=" << m * n << ")" << " je: " << trenutnaSrednja << endl << endl;
 		}
 
-
-
-
 		proslaSrednja = trenutnaSrednja;
-
-
-
 
 	} while (trenutnaSrednja < 9);
 
@@ -105,10 +99,10 @@ float srednja(int x)
 
 		return temp / 2.0;
 	}
+	
 	else
 	{
 		x = x / pow(10, pola);
-
 		return x % 10;
 	}
 }
