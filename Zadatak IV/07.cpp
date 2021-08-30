@@ -187,7 +187,7 @@ int* najboljiIgrac(kosarkas** niz, int red, int kolona, int najKlub)
 
 	for (int i = 0; i < red; i++)
 	{
-		if (*(najgori + i) < *(najgori + najgoriK))
+		if (*(najgori + i) < najgoriK)
 		{
 			najgoriK = *(najgori + i);
 		}
