@@ -25,7 +25,7 @@ int main()
 	}
 	else
 	{
-		cout << "Firma B je prva prestigla firmu a za " << brGodina << " godina" << endl;
+		cout << "Firma C je prva prestigla firmu a za " << brGodina << " godina" << endl;
 	}
 
 	cout << "Godisnji prihod Firme A u " << brGodina << ". godini iznosi: " << firmaA << "M eura" << endl;
