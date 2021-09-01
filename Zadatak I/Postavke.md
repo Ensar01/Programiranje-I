@@ -134,7 +134,7 @@ Napisati program kojim će se izračunati 20 uzastopnih vrijednosti brzine i pre
 
 ***Primjer izlaza:***
 
-```
+```c++
 Situacija u 3-oj sekundi je:
 Brzina: 29.43
 Predjeni put: 44.145
