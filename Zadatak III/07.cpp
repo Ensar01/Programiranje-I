@@ -40,7 +40,7 @@ void puniRand(int* niz, int vel, int i)
 
 	if (i > 1)
 	{
-		if (*(niz + i) == *(niz + i - 1) == *(niz + i - 2))
+		if (*(niz + i) == *(niz + i - 1) && *(niz + i ) == *(niz + i - 2))
 		{
 			return;
 		}
