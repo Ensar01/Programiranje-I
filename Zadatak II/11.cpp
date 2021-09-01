@@ -54,20 +54,20 @@ float srednji(int x)
 
 int proizvod(int x)
 {
-	int srednja = srednji(x);
+	float noviBr = 0;
 	int brojac = 1;
-	int noviBr = 0;
+	float srednji = srednja(x);
 
-	while (srednja <= x)
+	while (noviBr<=x)
 	{
-		noviBr = srednja * brojac;
+		noviBr = srednji * brojac;
 
-		if (noviBr > x)
+		if (noviBr>x)
 		{
 			break;
 		}
 		brojac++;
 	}
-
 	return brojac;
+
 }
