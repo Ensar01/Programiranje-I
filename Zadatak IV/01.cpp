@@ -135,7 +135,7 @@ void dealokacija(fudbaler**& niz, int red)
 		*(niz + i) = nullptr;
 	}
 
-	delete[]niz; //i onda niz redova (pokazaivaca)
+	delete[]niz; //i onda niz redova (pokazivaca)
 	niz = nullptr;
 }
 
