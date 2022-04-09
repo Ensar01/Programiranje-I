@@ -1,6 +1,6 @@
 # Programiranje-I    ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   
-***Collection of exams NPP - 2014x2015, NPP - 2018x2019***
+### ***Collection of exams NPP - 2014x2015, NPP - 2018x2019***
 
 [Postavke za 1. ispitne zadatke](https://github.com/Ensar01/Programiranje-I/blob/main/Zadatak%20I/Postavke.md)
 
